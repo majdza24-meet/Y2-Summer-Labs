@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title> home.html</title>
-	</head>
-	<body>
-		<h1>welcome guyyyyyys</h1>
-		<p>have a perfect meet day </p>
-		<div>
-			<a href="{{url_for('fortune')}}">Fortune</a>
-		</div>
-	</body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Welcome, {{username}}</h1>
+    <a href="{{ url_for('fortune') }}"> Your fortune</a>
+  </body>
 </html>
