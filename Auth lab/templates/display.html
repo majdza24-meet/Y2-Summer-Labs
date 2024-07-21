@@ -5,9 +5,9 @@
 </head>
 <body>
 
-	<h1>Thank you for your quote</h1>
-	{%for i in quotes%}
-	<h1>{{i}}</h1>
+	<h1>Quotes</h1>
+	{%for quote in quotes%}
+	<h2>{{quote}}</h2>
 	{%endfor%}
 	<form action="{{url_for('home')}}" method = "GET">
 		<input type="submit" value="home">
