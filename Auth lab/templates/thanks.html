@@ -6,8 +6,8 @@
 <body>
 
 	<h1>Thanks for your quote</h1>
-	<h1>{{quote}}</h1>
-	<form action="{{url_for('display')}}" method = "GET">
+	<h1>{{speaker +" said " + quote}}</h1>
+	<form  action="{{url_for('display')}}" method = "GET">
 		<input type="submit" value="display quotes">
 	</form>
 	<form action="{{url_for('home')}}" method = "GET">
