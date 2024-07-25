@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Travel Loop</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+.myLink {display: none}
+/* Ensure all category boxes are the same height */
+.w3-category {
+  height: 400px; /* Adjust as needed for uniform height */
+  overflow: hidden; /* Hide overflow content */
+  position: relative; /* Position relative for image and overlay */
+  padding: 10px; /* Padding around each category box */
+}
+.w3-category img {
+  width: 100%; /* Ensure image fills container width */
+  height: 100%; /* Maintain image aspect ratio */
+  object-fit: cover; /* Cover the container without distortion */
+  position: absolute; /* Position image absolutely */
+  top: 0; /* Position at top of container */
+  left: 0; /* Position at left of container */
+}
+.w3-category .w3-container {
+  position: absolute; /* Position the text container absolutely */
+  bottom: 0; /* Position at the bottom of the container */
+  left: 0; /* Position at the left of the container */
+  width: 100%; /* Full width */
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 10px; /* Padding for text */
+  text-align: center; /* Center align text */
+}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- Navigation Bar -->
+<div class="w3-bar w3-white w3-border-bottom w3-xlarge">
+  <a href="#" class="w3-bar-item w3-button w3-text-red w3-hover-red"><b><i class="fa fa-map-marker w3-margin-right"></i>Travel Loop</b></a>
+  <a href="#" class="w3-bar-item w3-button w3-right w3-hover-red w3-text-grey"><i class="fa fa-search"></i></a>
+</div>
+
+<!-- Top Categories -->
+<div class="w3-row">
+  <div class="w3-half w3-category">
+    <a href="https://example.com/garden">
+      <img src="https://www.gardendesign.com/day-trips/new-york-city-metro/images/NYBG/1.jpg" alt="garden">
+      <div class="w3-container">
+        <h3>Garden</h3>
+      </div>
+    </a>
+  </div>
+  <div class="w3-half w3-category">
+    <a href="https://example.com/museum">
+      <img src="https://assets2.devourtours.com/wp-content/uploads/nyc-natural-history-museum-FCC.jpeg" alt="Museum">
+      <div class="w3-container">
+        <h3>Museum</h3>
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- Bottom Categories -->
+<div class="w3-row">
+  <div class="w3-half w3-category">
+    <a href="https://example.com/danger">
+      <img src="https://www.busytourist.com/wp-content/uploads/2019/10/Luna-Park-Coney-Island.jpg.webp" alt="adventure">
+      <div class="w3-container">
+        <h3>Dangerous activities</h3>
+      </div>
+    </a>
+  </div>
+  <div class="w3-half w3-category">
+    <a href="https://example.com/beaches">
+      <img src="https://assets3.thrillist.com/v1/image/3179260/1200x600/scale;;webp=auto;jpeg_quality=85.jpg" alt="beaches">
+      <div class="w3-container">
+        <h3>beaches</h3>
+      </div>
+    </a>
+  </div>
+</div>
+
+</body>
+</html>

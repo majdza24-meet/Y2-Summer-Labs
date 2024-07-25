@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Travel Loop</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="../static/script.js"></script> 
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+.myLink {display: none}
+/* Ensure all category boxes are the same height */
+.w3-category {
+  height: 400px; /* Adjust as needed for uniform height */
+  overflow: hidden; /* Hide overflow content */
+  position: relative; /* Position relative for image and overlay */
+  padding: 10px; /* Padding around each category box */
+}
+.w3-category img {
+  width: 100%; /* Ensure image fills container width */
+  height: 100%; /* Maintain image aspect ratio */
+  object-fit: cover; /* Cover the container without distortion */
+  position: absolute; /* Position image absolutely */
+  top: 0; /* Position at top of container */
+  left: 0; /* Position at left of container */
+}
+.w3-category .w3-container {
+  position: absolute; /* Position the text container absolutely */
+  bottom: 0; /* Position at the bottom of the container */
+  left: 0; /* Position at the left of the container */
+  width: 100%; /* Full width */
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 10px; /* Padding for text */
+  text-align: center; /* Center align text */
+}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- Navigation Bar -->
+<div class="w3-bar w3-white w3-border-bottom w3-xlarge">
+  <a href="#" class="w3-bar-item w3-button w3-text-red w3-hover-red"><b><i class="fa fa-map-marker w3-margin-right"></i>Travel Loop</b></a>
+  <a href="#" class="w3-bar-item w3-button w3-right w3-hover-red w3-text-grey"><i class="fa fa-search"></i></a>
+</div>
+
+<!-- Top Categories -->
+<div class="w3-row">
+  <div class="w3-half w3-category">
+    <a href="{{url_for('garden')}}" , onclick="changeAllCategories(['https://static01.nyt.com/images/2023/06/25/multimedia/00-paris-city-walk-hqbp/00-paris-city-walk-hqbp-superJumbo.jpg?quality=75&auto=webp', 'https://via.placeholder.com/200/33FFC2', 'https://via.placeholder.com/200/FF33FC', 'https://via.placeholder.com/200/339AFF']); return false;">
+      <img src="https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe8c81869-c57f-49d6-93be-f4d5773a39f7.jpg?crop=2559%2C1706%2C1%2C0" alt="Museum">
+      <div class="w3-container">
+        <h3>Garden</h3>
+      </div>
+    </a>
+  </div>
+  <div class="w3-half w3-category">
+    <a href="{{url_for('museum')}}">
+      <img src="https://www.planetware.com/wpimages/2022/02/france-paris-top-tourist-attractions-musee-du-louvre.jpg" alt="Museum">
+      <div class="w3-container">
+        <h3>Museum</h3>
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- Bottom Categories -->
+<div class="w3-row">
+  <div class="w3-half w3-category" >
+    <a href="{{url_for('danger')}}">
+      <img src="https://www.parisdiscoveryguide.com/image-files/x600-tuileries-ferris-wheel-20x11.jpg.pagespeed.ic.ttpzF-QwO4.jpg" alt="adventure">
+      <div class="w3-container">
+        <h3>Dangerous activities</h3>
+      </div>
+    </a>
+  </div>
+  <div class="w3-half w3-category" >
+    <a href="{{url_for('beaches')}}">
+      <img src="https://c.myholidays.com/blog/blog/content/images/2021/02/Etretat-Beach.webp" alt="beaches">
+      <div class="w3-container">
+        <h3>beaches</h3>
+      </div>
+    </a>
+  </div>
+</div>
+</body>
+</html>

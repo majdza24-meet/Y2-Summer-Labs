@@ -1,0 +1,80 @@
+paris gardens:
+	1-Botanical garden : https://lh3.googleusercontent.com/p/AF1QipMqDQMHnxw0pHHUFmdbSSswO66iEFYL3zVQSvQ3=s680-w680-h510
+	2-Garden of the wild : https://lh3.googleusercontent.com/p/AF1QipPOwaRVdTITWTMAU_5BpESdA_8oCAFONej1orMD=s680-w680-h510
+	3-Roches and Pivoines Garden : https://lh3.googleusercontent.com/p/AF1QipOn_sXim2lpHT0xUnTdxeXKEy396m6HfSystZ1h=s680-w680-h510
+	4-Tuileries Garden : https://lh3.googleusercontent.com/p/AF1QipMPheyuIJKZjrB9x8_J8_b_grbcH21pwR5eE0YP=s680-w680-h510
+
+paris museum:
+	1-Orsay Museum : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8eqigBJx6WqwaQZyyvY8GvS2K8FmEzpBOA&s
+	2-Museum of the Orangerie : https://www.urtrips.com/wp-content/uploads/2022/06/orangerie-museum-paris2.jpg
+	3- Rodin Museum : https://www.saaih.com/files/styles/gallery/public/gallery/-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3/%D9%85%D8%AA%D8%AD%D9%81%20%D8%B1%D9%88%D8%AF%D8%A7%D9%86%20%282%29.JPG
+	4-Carnaval Museum : https://i0.wp.com/museumspotlighteurope.com/wp-content/uploads/2023/06/covermuseecarnv.jpeg?fit=1360%2C906&ssl=1
+
+paris activte:
+	1-Palais Garnier :https://tournaa.com/wp-content/uploads/2018/12/%D8%BA%D8%A7%D8%B1%D9%86%D9%8A%D9%8A%D9%86%D9%87-1.jpg
+	2-Eiffel tower : https://assets.cityexperiences.com/wp-content/uploads/2023/01/eiffel-sunny-weather_sm.jpg
+	3-Arc de Triomphe :https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/4f/99/45/arc-de-triomphe-paris.jpg
+	4-Notre Dame Cathedral in Paris :https://www.urtrips.com/wp-content/uploads/2016/05/noter-dame-cathedral-paris.jpg
+
+paris beaches:
+	1- Deauville Beach:https://c.myholidays.com/blog/blog/content/images/2021/02/Deauville-Beach.webp
+	2-Beach In Dieppe:https://c.myholidays.com/blog/blog/content/images/2021/02/Beach-In-Dieppe.webp
+	3-Plages In Paris:https://c.myholidays.com/blog/blog/content/images/2021/02/Omaha-Beach.webp
+	4-Omaha Beach:https://c.myholidays.com/blog/blog/content/images/2021/02/Omaha-Beach.webp
+
+
+
+
+london gardens:
+	1-Kyoto Garden :https://lh5.googleusercontent.com/p/AF1QipNBAHUzV5VE2_O0hh6TKxuWiatduXXpev3piHWF=w260-h175-n-k-no
+	2-Kensington Gardens :https://lh3.googleusercontent.com/p/AF1QipPW9uO_O90YOgVMZ4AaKDwmt-MggeBVQeJ2b1Bt=s680-w680-h510
+	3-Queen Mary Rose Gardens:https://lh3.googleusercontent.com/p/AF1QipMsvMRoEwE86OPDKSx_NAZCIwrfYu9u7FNLjjwX=s680-w680-h510
+	4-sky garden:https://lh3.googleusercontent.com/p/AF1QipME1C7Kb-64cdq9javAuBeKWBGbWBw00jq-q9Z3=s680-w680-h510
+
+london museum:
+	1-Natural History Museum:https://lh5.googleusercontent.com/p/AF1QipMKMPGuqFIIe753r4exMrmQgSDQOy0ClKlEqmMu=w260-h175-n-k-no
+	2-National Maritime Museum: https://lh3.googleusercontent.com/p/AF1QipNTz8DkLMRbWIvtfQNdCR5f34YOZs9uQnzoAGTN=s680-w680-h510
+	3-The British Museum :https://lh3.googleusercontent.com/p/AF1QipOGYfC0UhYr99hmNUisWTZxul2buT16QGU0q8Zt=s680-w680-h510
+	4-Science Museum :https://lh3.googleusercontent.com/p/AF1QipP8I1FapefpwMRFOHWg6g3Cj_ayF_osh20FpVLF=s680-w680-h510
+
+london activte:
+	1-London Eye :https://cdn-lnp.dataweavers.io/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/coca-cola-london-eye/the-london-eye-2-640x360.jpg?mw=800&rev=95097c3d2aab47109d7b0e944c804d1b&hash=FB98B96BC11D71836E23E8DDF66A058E
+	2-Studio Tour London: https://cdn-lnp.dataweavers.io/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/harry-potters-london/warner-bros-studio-tour-london-640x360.jpg?mw=800&rev=5fd0a55526924e3b8a2a409a3c20c7be&hash=A4CDDAF763ADC6DB3E917A30B327238C
+	3-Madame Tussauds London:https://cdn-lnp.dataweavers.io/-/media/images/london/visit/london-organisations/madame-tussauds/king-charles-madame-tussauds-640x360.jpg?mw=800&rev=6436b66826314baf9b9aad0437f0e0f7&hash=866F33FD8EC3075362D7E03BAE525C0A
+	4-SEA LIFE London: https://cdn-lnp.dataweavers.io/-/media/images/london/visit/things-to-do/sightseeing/london-attractions/sea-life-london-aquarium/sea-life-london-640x360.jpg?mw=800&rev=4a4cf51cc72641b0b479d96ccfda5f11&hash=6EA36CC1D157937C3A3C3CCE04BEBC46
+
+london beaches:
+	1-Bermondsey Beach :https://lh5.googleusercontent.com/p/AF1QipPsTJygiz6u6lDEnx0eDHnrsfNScjcXNvub_fZq=w260-h175-n-k-no
+	2-Folly House Beach :https://lh3.googleusercontent.com/p/AF1QipONvfaJR4QqIou04BwTKAp7pI7rfuyEtSd2jKRW=s680-w680-h510
+	3-Thames Beach : https://lh3.googleusercontent.com/p/AF1QipNMDs5tZGV8_nGnQz1wyb5EX1WSma-PTn_VeOok=s680-w680-h510
+	4-Ruislip Lido Beach : https://lh3.googleusercontent.com/p/AF1QipMqG2xwByVaPU3eFLvuKdnbMbIN7MbAeLHag-mE=s680-w680-h510
+
+
+
+
+
+
+NYC garden:
+	1-Conservatory Garden:https://lh5.googleusercontent.com/p/AF1QipOZHHxAHbKZ4HbxfXOeZLEo3Yle0N1ZlaIzzeT7=w260-h175-n-k-no
+	2-Brooklyn Botanic Garden: https://lh5.googleusercontent.com/p/AF1QipM5uihZE7TlRNCCoJ-bTJO87Cfm7x4Ew95isj_x=w260-h175-n-k-no
+	3-New York Botanical Garden: https://lh5.googleusercontent.com/p/AF1QipNrRyoI1-7DprHpFsVn4VXlBSG78rJFCvG9CIjR=w260-h175-n-k-no
+	4-Shakespeare Garden: https://lh5.googleusercontent.com/p/AF1QipN-aCtPgc0SWmFcZCtvYOMbU7dZWm_r_jyd-53V=w260-h175-n-k-no
+
+NYC museum:
+	1-Museum of Modern Art: https://lh5.googleusercontent.com/p/AF1QipMrDftlNrL04ImXKaFQYvNgoNel7r5i6KGHMdmD=w260-h175-n-k-no
+	2-Metropolitan Museum of Art: https://lh5.googleusercontent.com/p/AF1QipMQ3uAUrTSwFsl3lrRtp--LabM5irUuCXf3dxDH=w260-h175-n-k-no
+	3-Intrepid Museum: https://lh3.googleusercontent.com/p/AF1QipPJirb6Efnf99IAW-rNuf6nYolKDQed-vWbjjDU=s680-w680-h510
+	4-Cloisters Museum: https://lh3.googleusercontent.com/p/AF1QipPfd9CO7PWz-1NUT-p5G0RSTpzl9nLkEuSMpmFd=s680-w680-h510
+	
+NYC activte:
+	1-SoHo Playhouse: https://lh5.googleusercontent.com/p/AF1QipOQgzmyxrmvifOBIsH-wtVb7J2VoQzqFxFHRr1Q=w260-h175-n-k-no
+	2-Escape the Room: https://lh3.googleusercontent.com/p/AF1QipOdpr5T_ViFG38_SCBQKCkKkvERYjQTcHD6t5C0=s680-w680-h510
+	3-brooklyn bridge: https://lh3.googleusercontent.com/p/AF1QipNsEfIMRWTdxE81RVGjbEz1JhdTRNtHIErGCmKf=s680-w680-h510
+	4-Empire State Building: https://lh3.googleusercontent.com/p/AF1QipNXyEKV0XCXo7dimND2I5jXFF4c0oAy-bYqFO5A=s680-w680-h510
+	
+NYC beaches:
+	1-Coney Island Beach:https://lh5.googleusercontent.com/p/AF1QipPLwfNEEFApMFc1NyoPeqsWj7ijSYQ3fG07-aiD=w260-h175-n-k-no
+	2-Brighton Beach :https://lh3.googleusercontent.com/p/AF1QipOtYNTUEEz68pX7QiQRTwIXrr6m5GzFO2PLF_om=s680-w680-h510
+	3-Manhattan Beach : https://lh5.googleusercontent.com/p/AF1QipMiZt4WIuplhCRmDPhefRhumMTNvV4h7NNEjYKQ=w260-h175-n-k-no
+	4-Orchard Beach:https://lh5.googleusercontent.com/p/AF1QipMl5VOGoVpYmGyjkQbOKq2c0OiYcVPOcQPTT3-R=w260-h175-n-k-no
+	
