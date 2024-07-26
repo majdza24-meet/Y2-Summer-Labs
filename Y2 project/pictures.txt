@@ -13,7 +13,7 @@ paris museum:
 paris activte:
 	1-Palais Garnier :https://tournaa.com/wp-content/uploads/2018/12/%D8%BA%D8%A7%D8%B1%D9%86%D9%8A%D9%8A%D9%86%D9%87-1.jpg
 	2-Eiffel tower : https://assets.cityexperiences.com/wp-content/uploads/2023/01/eiffel-sunny-weather_sm.jpg
-	3-Arc de Triomphe :https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/4f/99/45/arc-de-triomphe-paris.jpg
+	3-Arc de Triomphttps://media-cdn.tripadvisor.com/media/photo-m/1280/1b/4f/99/45/arc-de-triomphe-paris.jpghe :
 	4-Notre Dame Cathedral in Paris :https://www.urtrips.com/wp-content/uploads/2016/05/noter-dame-cathedral-paris.jpg
 
 paris beaches:

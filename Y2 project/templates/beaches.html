@@ -1,0 +1,63 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Categories with Images (Editable)</title>
+  <script src="../static/script.js"></script>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  .category {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-right: 10px;
+  }
+  .category img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+</style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="category" id="category1">
+      <a href="/update/Deauville Beach"><img src="https://c.myholidays.com/blog/blog/content/images/2021/02/Deauville-Beach.webp"></a>
+      <h2>Deauville Beach</h2>
+      <p>Description of category 1.</p>
+    </div>
+    <div class="category" id="category2">
+      <a href="/update/Beach In Dieppe "><img src="https://c.myholidays.com/blog/blog/content/images/2021/02/Beach-In-Dieppe.webp"></a>
+      <h2>Beach In Dieppe </h2>
+      <p>Description of category 2.</p>
+    </div>
+    <div class="category" id="category3">
+      <a href="/update/Plages In Paris"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IKWTqsFqICySoc2MPLcuCraNn9M4iNb2nQ&s" alt="Category 3"></a>
+      <h2>Plages In Paris</h2>
+      <p>Description of category 3.</p>
+    </div>
+    <div class="category" id="category4">
+      <a href="/update/Omaha Beach"><img src="https://c.myholidays.com/blog/blog/content/images/2021/02/Omaha-Beach.webp"></a>
+      <h2>Omaha Beach </h2>
+      <p>Description of category 4.</p>
+    </div>
+  </div>

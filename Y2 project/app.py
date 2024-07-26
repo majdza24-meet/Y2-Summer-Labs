@@ -53,12 +53,13 @@ def signIn():
   return render_template("signin1.html") 
 
 
-@app.route('/xxx')
+@app.route('/xxxx')
 def display():
   if session['user'] != None:
     return render_template(".html", quotes = db.child('Quotes').get().val())
   else:
     return redirect(url_for('signIn'))
+    
 @app.route('/home', methods = ['GET','POST'])
 def place():
   if request.method == 'POST':
@@ -111,9 +112,9 @@ def museum():
 @app.route('/beaches')
 def beaches():
   return render_template("beaches.html")  
-@app.route('/dangerous')
+@app.route('/activities')
 def danger():
-  return render_template("danger.html")  
+  return render_template("activities.html")  
 
 
 @app.route('/update/<place>', methods=["GET","POST"])
